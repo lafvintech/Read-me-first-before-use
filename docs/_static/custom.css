@@ -1,0 +1,138 @@
+/* Basic reset */
+* { box-sizing: border-box; }
+
+:root {
+  --text: #0b1220;
+  --muted: #4b5563;       /* slate-600 */
+  --primary: #22c55e;     /* green-500 */
+  --primary-dark: #16a34a;/* green-600 */
+  --border: #e5e7eb;      /* gray-200 */
+}
+
+html .wy-nav-content {
+  max-width: 1000px;
+}
+
+/* Poster image at top */
+.rst-content .poster {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 16px 0;
+  border: none;
+  box-shadow: none;
+}
+
+/* Hero section: remove dark box; keep spacing */
+.hero {
+  background: transparent;
+  color: var(--text);
+  padding: 8px 0 16px 0;
+  border-radius: 0;
+  margin: 0 0 8px 0;
+}
+.hero .container { max-width: 1000px; margin: 0 auto; }
+.hero h1 {
+  font-size: 28px;
+  line-height: 1.35;
+  margin: 0 0 8px 0;
+}
+.hero .subtitle {
+  font-size: 16px;
+  color: var(--muted);
+  margin: 0 0 12px 0;
+}
+
+/* CTA buttons on light background */
+.cta-group { display: flex; gap: 12px; flex-wrap: wrap; }
+.cta {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background: var(--primary);
+  color: #051b0f;
+  font-weight: 600;
+  text-decoration: none;
+}
+.cta:hover { background: var(--primary-dark); color: #04140c; }
+.cta.secondary { background: transparent; border: 1px solid var(--border); color: var(--text); }
+.cta.secondary:hover { background: #f9fafb; }
+
+/* Feature cards on white */
+.features { margin-top: 8px; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+@media (max-width: 900px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+.card {
+  background: #ffffff;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+}
+.card h3 { margin-top: 0; }
+.card p { color: var(--muted); }
+
+/* Improve base typography */
+.rst-content p { color: var(--text); }
+.rst-content h1, .rst-content h2, .rst-content h3 { color: var(--text); }
+
+/* Responsive video container */
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 */
+  margin: 16px 0 24px;
+  overflow: hidden;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Larger primary CTA button */
+.cta.big {
+  padding: 12px 22px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+/* Gray variant for CTA */
+.cta.gray {
+  background: #e5e7eb;            /* gray-200 */
+  color: var(--text);
+  border: 1px solid #d1d5db;      /* gray-300 */
+}
+.cta.gray:hover { background: #d1d5db; }
+
+/* Smaller CTA size */
+.cta.small {
+  padding: 6px 10px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+/* Highlighted option lines */
+.option-line {
+  background: #f9fafb;                 /* light gray background */
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 8px 0;
+  font-weight: 500;
+}
+.option-line .label {
+  font-weight: 700;
+  color: var(--primary-dark);
+  margin-right: 6px;
+}
