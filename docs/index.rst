@@ -29,3 +29,42 @@ If you already have Battery Box A, you can click the button to get the user manu
     <p style="margin: 8px 0 24px; text-align: center;">
       <a class="cta big" href="https://www.dropbox.com/sh/f0y6aez5y1nt1je/AAA8BG3GckIm3QefblaZmMdTa?dl=1" target="_blank" rel="noopener noreferrer">Download Tutorials</a>
     </p>
+
+
+
+
+
+
+spañol
+==========================
+
+Léame primero - antes de usar
+-------
+
+.. image:: _static/battery-box.png
+   :alt: Battery box wiring
+   :class: poster
+
+Gracias por comprar nuestros productos. Después de recibir el producto, verifica primero el tipo de caja de baterías. Si recibes la caja de baterías modelo B.
+
+.. raw:: html
+
+    <p class="option-line"><span class="label">Opción ① :</span> Ponte en contacto con nosotros y te enviaremos la Caja de Baterías Modelo A. Correo electrónico: tech_edu_service@outlook.com</p>
+
+.. raw:: html
+
+    <p class="option-line"><span class="label">Opción ② :</span> Si quieres usar el producto de inmediato, necesitas ajustar la dirección del cableado. Para el método de operación específico, consulta el video. <a class="cta gray small" href="https://www.dropbox.com/scl/fi/w9xsibcfgdtrru8q8ghoh/Modify-Model-B-to-Model-A.mp4?rlkey=ljziceotre8b3l59xmch767ml&st=bupspp8w&dl=1" target="_blank" rel="noopener noreferrer">Descargar video (MP4)</a></p>
+
+.. raw:: html
+
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/t3OqbuDA3Vw" title="Modify Model B to Model A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+Si ya tienes la Caja de Baterías A, puedes hacer clic en el botón para obtener el manual del kit de aprendizaje.
+
+.. raw:: html
+
+    <p style="margin: 8px 0 24px; text-align: center;">
+      <a class="cta big" href="https://www.dropbox.com/sh/f0y6aez5y1nt1je/AAA8BG3GckIm3QefblaZmMdTa?dl=1" target="_blank" rel="noopener noreferrer">Descargar tutoriales</a>
+    </p>
