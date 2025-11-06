@@ -33,7 +33,7 @@ If you already have Battery Box A, you can click the button to get the user manu
 .. raw:: html
 
     <p style="margin: 8px 0 24px; text-align: center;">
-      <a class="cta big" href="https://www.dropbox.com/scl/fo/zj5s03gdmzvg40wa6cszj/h?dl=0&rlkey=6tb58hnluqv1d4m0ww5cfejtj" target="_blank" rel="noopener noreferrer">Download Tutorials</a>
+      <a class="cta big" href="https://www.dropbox.com/sh/4itertb1auwtd1t/AAD6__0hzNzpWwmsrlUTq4_ga?dl=1" target="_blank" rel="noopener noreferrer">Download Tutorials</a>
     </p>
 
 
@@ -78,5 +78,5 @@ Si ya tienes la Caja de Baterías A, puedes hacer clic en el botón para obtener
 .. raw:: html
 
     <p style="margin: 8px 0 24px; text-align: center;">
-      <a class="cta big" href="https://www.dropbox.com/scl/fo/zj5s03gdmzvg40wa6cszj/h?dl=0&rlkey=6tb58hnluqv1d4m0ww5cfejtj" target="_blank" rel="noopener noreferrer">Descargar tutoriales</a>
+      <a class="cta big" href="https://www.dropbox.com/sh/4itertb1auwtd1t/AAD6__0hzNzpWwmsrlUTq4_ga?dl=1" target="_blank" rel="noopener noreferrer">Descargar tutoriales</a>
     </p>
