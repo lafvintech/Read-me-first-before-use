@@ -136,3 +136,18 @@ html .wy-nav-content {
   color: var(--primary-dark);
   margin-right: 6px;
 }
+
+/* Centered red alert box */
+.alert {
+  display: inline-block;
+  background: #ef4444;            /* red-500 */
+  color: #ffffff;
+  border: 1px solid #dc2626;      /* red-600 */
+  border-radius: 8px;
+  padding: 10px 14px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+.alert .icon {
+  font-weight: 700;
+  margin-right: 8px;
+}
