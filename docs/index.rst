@@ -9,6 +9,12 @@ Thank you for purchasing our products. After receiving the goods, please first c
 
 .. raw:: html
 
+    <p style="text-align: center; margin: 10px 0 12px;">
+      <span class="alert"><span class="icon" aria-hidden="true">❗</span> Do not use battery box Model B directly<br />Incorrect connection can damage the product.</span>
+    </p>
+
+.. raw:: html
+
     <p class="option-line"><span class="label">Option ① :</span> Contact us and we will send you Battery Box Model A. Email: tech_edu_service@outlook.com</p>
 
 .. raw:: html
@@ -46,6 +52,12 @@ Léame primero - antes de usar
    :class: poster
 
 Gracias por comprar nuestros productos. Después de recibir el producto, verifica primero el tipo de caja de baterías. Si recibes la caja de baterías modelo B.
+
+.. raw:: html
+
+    <p style="text-align: center; margin: 10px 0 12px;">
+      <span class="alert"><span class="icon" aria-hidden="true">❗</span> No utilices directamente la caja de baterías Modelo B<br />Una conexión incorrecta puede dañar el producto.</span>
+    </p>
 
 .. raw:: html
 
