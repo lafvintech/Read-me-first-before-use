@@ -81,9 +81,11 @@ html .wy-nav-content {
 .rst-content p { color: var(--text); }
 .rst-content h1, .rst-content h2, .rst-content h3 { color: var(--text); }
 
-/* Slightly larger paragraph font size across docs */
+/* Larger paragraph font size override */
+.wy-nav-content .rst-content p,
 .rst-content p {
-  font-size: 1.08em;
+  font-size: 1.5em !important;
+  line-height: 1.7 !important;
 }
 
 /* Responsive video container */
