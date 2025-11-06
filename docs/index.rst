@@ -27,7 +27,7 @@ If you already have Battery Box A, you can click the button to get the user manu
 .. raw:: html
 
     <p style="margin: 8px 0 24px; text-align: center;">
-      <a class="cta big" href="https://www.dropbox.com/sh/f0y6aez5y1nt1je/AAA8BG3GckIm3QefblaZmMdTa?dl=1" target="_blank" rel="noopener noreferrer">Download Tutorials</a>
+      <a class="cta big" href="https://www.dropbox.com/sh/27lu63pure2m9rx/AAD76weq2cHX_eQ7-zPdYSLAa?dl=1" target="_blank" rel="noopener noreferrer">Download Tutorials</a>
     </p>
 
 
