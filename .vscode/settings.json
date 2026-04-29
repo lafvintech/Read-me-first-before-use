@@ -1,0 +1,8 @@
+{
+  "esbonio.sphinx.confDir": "${workspaceFolder}/docs",
+  "esbonio.sphinx.srcDir": "${workspaceFolder}/docs",
+  "esbonio.sphinx.buildDir": "${workspaceFolder}/docs/_build/html",
+  "esbonio.server.pythonPath": "${workspaceFolder}/.rtd-env/Scripts/python.exe",
+  "esbonio.server.enabled": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}/.rtd-env/Scripts/python.exe"
+}
